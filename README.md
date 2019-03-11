@@ -1,20 +1,13 @@
-### Quick Start
 
-Fork this repository to your github account and clone it to your machine. Then install the dependencies:
-```bash
-> git clone https://github.com/makersacademy/birthdays.git
-> cd birthdays
-> bundle
-```
+# Project title
 
-### Instructions
+TDD Birthdays Project.
 
-- Test-drive an implementation of the requirements
-- Make sure your code is [linted](https://github.com/rubocop-hq/rubocop)
-- [Open a PR](https://services.github.com/on-demand/github-cli/open-pull-request-github) when you've finished
+## Motivation
+
+The purpose of this project is to develop my skills as a developer by running through a beginners TDD project.
 
 ### Requirements
-
 I want a program that I can load in IRB that allows me to
 - Store all of my friends’ birthdays so I can keep track of them
 - See them all at once with their names and birthdays each on a line in a tidy format
@@ -24,11 +17,26 @@ More requirements:
 - Test-drive extracting a birthday class
 - Isolate your birthday list class using a mock for Birthday
 
-### TDD resources
+## Build status
+The programme was built in Ruby v2.5.0, using VSCode editor. 
 
-- https://github.com/makersacademy/course/blob/master/pills/tdd.md
-- https://github.com/makersacademy/course/blob/master/pills/tdd_quality_discussion.md
+## Code style
+Rubocop was used for linting.
 
-### Mocking
+## Features
+This is a simple project, which should be test driven in design and should meet all the requirements shown above. 
 
-- https://relishapp.com/rspec/rspec-mocks/docs/basics/test-doubles
+## Installation
+irb can be used to rub the programme. 
+
+## Tests
+RSpec was initialized and run on the programme to lead its development. 
+
+## Contribute
+No contributions are required for this practice project. 
+
+## Credits
+Makers Academy provided the exercise to complete. 
+
+Code written by Jeremyrrsmith
+
